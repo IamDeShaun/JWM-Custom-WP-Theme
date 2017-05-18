@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2016-11-14 03:20:34
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.20
+WORDPRESS:	4.6.1
+PHP INFO:	5.6.2 | SAPI: apache2handler
+SERVER:		Apache/2.2.29 (Unix) mod_fastcgi/2.4.6 mod_wsgi/3.4 Python/2.7.8 PHP/5.6.2 mod_ssl/2.2.29 OpenSSL/0.9.8za DAV/2 mod_perl/2.0.8 Perl/v5.20.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 25.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20161114_deshaunjones_58292d681fadb6326161114032008_database.sql 
+SQL FILE SIZE: 695.07KB (711750) 
+SQL FILE TIME: 2016-11-14 03:20:34 
+SQL RUNTIME: 0.19 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/wordpress-3 
+ARCHIVE FILE: 20161114_deshaunjones_58292d681fadb6326161114032008_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	38.87MB 
+STATS:	Dirs 219 | Files 2,027 
+SQL ADDED: 20161114_deshaunjones_58292d681fadb6326161114032008_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2246
+    [filename] => /Applications/MAMP/htdocs/wordpress-3/wp-snapshots/tmp/20161114_deshaunjones_58292d681fadb6326161114032008_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 18.94MB 
+ARCHIVE RUNTIME: 11.04 sec. 
+MEMORY STACK: 26.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/wordpress-3/wp-snapshots/tmp/20161114_deshaunjones_58292d681fadb6326161114032008_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 695.07KB 
+Installer File: 352.02KB 
+Archive File: 18.94MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 12.20 sec.
+PEAK PHP MEMORY USED: 29.25MB
+DONE PROCESSING => 20161114_deshaunjones 2016-11-14 03:20:46
+ 
